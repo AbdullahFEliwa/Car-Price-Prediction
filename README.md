@@ -16,3 +16,6 @@ Exploratory Data Analysis (EDA): Using visualizations with Seaborn and Matplotli
 
 Model Training: Applying regression models, eg linear regression and random forest to predict car prices.
 
+#Results
+
+The project aims to build a predictive model that accurately estimates car prices based on key features. The evaluation metrics, such as RMSE and R-squared, are used to assess model performance.
