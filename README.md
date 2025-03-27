@@ -14,4 +14,5 @@ Feature Engineering: Creating new features to improve model accuracy.
 
 Exploratory Data Analysis (EDA): Using visualizations with Seaborn and Matplotlib.
 
-Model Training: Applying regression models to predict car prices.
+Model Training: Applying regression models, eg linear regression and random forest to predict car prices.
+
