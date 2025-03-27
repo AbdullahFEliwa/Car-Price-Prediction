@@ -1,12 +1,12 @@
-Project Overview
+#Project Overview
 
 This project focuses on predicting car prices using machine learning and data analysis techniques. The dataset is sourced from Kaggle and contains various car attributes that influence pricing. The notebook performs data preprocessing, feature engineering, and model training to build an accurate car price prediction model.
 
-Dataset
+#Dataset
 
 The dataset used in this project is from Kaggle: Car Price Prediction Challenge. It contains detailed car information, such as brand, model, year, mileage, engine specifications, and price.
 
-Features and Analysis
+#Features and Analysis
 
 Data Cleaning: Handling missing values and outliers.
 
